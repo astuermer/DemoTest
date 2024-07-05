@@ -2,14 +2,12 @@
  "Item":[
  {
 	"Description":"Testartikel von sit.ast",
-	"Type": "Non-inventory",
 	"Base Unit of Measure": "Stück",
 	"Unit Cost": "5555",
 	"Unit Price": "9999"
  },
  {
 	"Description":"Noch ein Testartikel",
-	"Type": "Non-inventory",
 	"Base Unit of Measure": "Stück",
 	"Unit Cost": "7894",
 	"Unit Price": "12132"
