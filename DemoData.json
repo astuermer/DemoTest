@@ -19,14 +19,14 @@
 	"Address": "Anna-Sigmund-Str.1",
 	"City": "Neuried",
 	"Post Code": "82061",
-	"Email": "stuermer@singhammer.com"
+	"E-Mail": "stuermer@singhammer.com"
  },
  {
 	"Name":"Der Herr Herbert",
 	"Address":"Herbertallee 3",
 	"City": "München",
 	"Post Code": "85523",
-	"Email":"herbert@singhammer.com"
+	"E-Mail":"herbert@singhammer.com"
  }
  ]
 }
