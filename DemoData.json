@@ -1,0 +1,20 @@
+{
+ "Item":[
+ {
+	"Description":"Testartikel von sit.ast",
+	"Type": "Non-inventory",
+	"Base Unit of Measure": "Stück",
+	"Unit Cost": "5555",
+	"Unit Price": "9999"
+ }
+	],
+ "Customer":[
+ {
+	"Name": "Alexander Stürmer",
+	"Address": "Anna-Sigmund-Str.1",
+	"City": "Neuried",
+	"Post Code": "82061",
+	"Email": "stuermer@singhammer.com"
+	}
+	]
+	}
