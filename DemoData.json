@@ -1,32 +1,34 @@
 {
- "Item":[
- {
-	"Description":"Testartikel von sit.ast",
-	"Base Unit of Measure": "Stück",
-	"Unit Cost": "5555",
-	"Unit Price": "9999"
- },
- {
-	"Description":"Noch ein Testartikel",
-	"Base Unit of Measure": "Stück",
-	"Unit Cost": "7894",
-	"Unit Price": "12132"
- }
+	"Item":[
+		{
+			"Description":"Testartikel von sit.ast",
+			"Type": "Non-inventory",
+			"Base Unit of Measure": "Stück",
+			"Unit Cost": "5555",
+			"Unit Price": "9999"
+		},
+		{
+			"Description":"Noch ein Testartikel",
+			"Type": "Non-inventory",
+			"Base Unit of Measure": "Stück",
+			"Unit Cost": "7894",
+			"Unit Price": "12132"
+		}
 	],
- "Customer":[
- {
-	"Name": "Stürmer Alexander",
-	"Address": "Anna-Sigmund-Str.1",
-	"City": "Neuried",
-	"Post Code": "82061",
-	"E-Mail": "stuermer@singhammer.com"
- },
- {
-	"Name":"Der Herr Herbert",
-	"Address":"Herbertallee 3",
-	"City": "München",
-	"Post Code": "85523",
-	"E-Mail":"herbert@singhammer.com"
- }
- ]
+	"Customer":[
+		{
+			"Name": "Alexander Stürmer",
+			"Address": "Anna-Sigmund-Str.1",
+			"City": "Neuried",
+			"Post Code": "82061",
+			"E-Mail": "stuermer@singhammer.com"
+		},
+		{
+			"Name":"Der Herr Herbert",
+			"Address":"Herbertallee 3",
+			"City": "München",
+			"Post Code": "85523",
+			"E-Mail":"herbert@singhammer.com"
+		}
+	]
 }
