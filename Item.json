@@ -1,0 +1,69 @@
+{
+	"Item":[
+		{
+			"No":"1001",
+			"Description": "Consulting T&M",
+			"Base Unit of Measure": "HOUR",
+			"Type":"Kein Bestand",
+			"Unit Price":"125",
+			"Costing Method":"FIFO",
+			"Unit Cost":"65",
+			"Sales Unit of Measure":"HOUR",
+			"Purch. Unit of Measure":"HOUR",
+			"DYCE Unit Price (Sales UOM)":"125",
+			"DYCE Service Billing Type":"Nach Aufwand"
+		},
+		{
+			"No":"1002",
+			"Description": "ConsultingFlat",
+			"Base Unit of Measure": "HOUR",
+			"Type":"kein Bestand",
+			"Unit Price":"125",
+			"Costing Method":"FIFO",
+			"Unit Cost":"65",
+			"Sales Unit of Measure":"HOUR",
+			"Purch. Unit of Measure":"HOUR",
+			"DYCE Unit Price (Sales UOM)":"125",
+			"DYCE Service Billing Type":"Budget"
+		},
+		{
+			"No":"1003",
+			"Description": "Development T&M",
+			"Base Unit of Measure": "HOUR",
+			"Type":"kein Bestand",
+			"Unit Price":"120",
+			"Costing Method":"FIFO",
+			"Unit Cost":"60",
+			"Sales Unit of Measure":"HOUR",
+			"Purch. Unit of Measure":"HOUR",
+			"DYCE Unit Price (Sales UOM)":"120",
+			"DYCE Service Billing Type":"Nach Aufwand"
+		},
+		{
+			"No":"1004",
+			"Description": "Development Flat",
+			"Base Unit of Measure": "HOUR",
+			"Type":"kein Bestand",
+			"Unit Price":"120",
+			"Costing Method":"FIFO",
+			"Unit Cost":"60",
+			"Sales Unit of Measure":"HOUR",
+			"Purch. Unit of Measure":"HOUR",
+			"DYCE Unit Price (Sales UOM)":"120",
+			"DYCE Service Billing Type":"Budget"
+		},
+		{
+			"No":"1005",
+			"Description": "Professsional Services Fixed",
+			"Base Unit of Measure": "HOUR",
+			"Type":"kein Bestand",
+			"Unit Price":"135",
+			"Costing Method":"FIFO",
+			"Unit Cost":"70",
+			"Sales Unit of Measure":"HOUR",
+			"Purch. Unit of Measure":"HOUR",
+			"DYCE Unit Price (Sales UOM)":"135",
+			"DYCE Service Billing Type":"Festpreis"
+		}
+	]
+}
