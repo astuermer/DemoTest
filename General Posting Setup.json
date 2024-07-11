@@ -1,0 +1,114 @@
+{
+	"General Posting Setup":[
+		{
+			"Gen. Bus. Posting Group": "",
+			"Gen. Prod. Posting Group": "HANDEL",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "",
+			"Gen. Prod. Posting Group": "OHNE MWST",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "",
+			"Gen. Prod. Posting Group": "PRODUKTION",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "",
+			"Gen. Prod. Posting Group": "ROHMAT",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "",
+			"Gen. Prod. Posting Group": "VERTRÄGE",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EU",
+			"Gen. Prod. Posting Group": "HANDEL",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EU",
+			"Gen. Prod. Posting Group": "OHNE MWST",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EU",
+			"Gen. Prod. Posting Group": "ROHMAT",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EU",
+			"Gen. Prod. Posting Group": "SERVICES",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EU",
+			"Gen. Prod. Posting Group": "VERTRÄGE",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EXPORT",
+			"Gen. Prod. Posting Group": "HANDEL",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EXPORT",
+			"Gen. Prod. Posting Group": "OHNE MWST",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EXPORT",
+			"Gen. Prod. Posting Group": "ROHMAT",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EXPORT",
+			"Gen. Prod. Posting Group": "SERVICES",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EXPORT",
+			"Gen. Prod. Posting Group": "SONST",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "EXPORT",
+			"Gen. Prod. Posting Group": "VERTRÄGE",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "INLAND",
+			"Gen. Prod. Posting Group": "HANDEL",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "INLAND",
+			"Gen. Prod. Posting Group": "OHNE MWST",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "INLAND",
+			"Gen. Prod. Posting Group": "PRODUKTION",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "INLAND",
+			"Gen. Prod. Posting Group": "ROHMAT",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "INLAND",
+			"Gen. Prod. Posting Group": "SERVICES",
+			"DYCE Accrual Account ":""
+		},
+		{
+			"Gen. Bus. Posting Group": "INLAND",
+			"Gen. Prod. Posting Group": "VERTRÄGE",
+			"DYCE Accrual Account ":""
+		}
+	]
+}
