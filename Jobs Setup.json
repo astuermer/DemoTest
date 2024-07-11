@@ -1,0 +1,11 @@
+{
+	"Jobs Setup":[
+		{
+			"DYCE Base UOM for Hour": "Hour",
+			"DYCE Hours per Day": "8",
+			"DYCE Time Recording No. Series": "TIMETR",
+			"DYCE Autom.Insert Job DimValue":"true",
+			"DYCE Base UOM for Minute":"MINUTE"
+		}
+	]
+}
