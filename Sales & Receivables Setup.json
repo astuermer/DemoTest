@@ -1,0 +1,10 @@
+{
+	"Sales & Receivables Setup":[
+		{
+			"DYCE Autom.Insert Cust.DimVal": "true",
+			"DYCE Print Goodwill ": "true",
+			"DYCE Print Start-End Time": "true",
+			"DYCE UOM for Fixed Price Item":"FIX"
+		}
+	]
+}
