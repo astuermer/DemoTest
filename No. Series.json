@@ -1,0 +1,11 @@
+{
+	"No. Series":[
+		{
+			"Code": "TIMETR",
+			"Description": "Time Tracking",
+			"Default Nos.": "HOUR",
+			"Manual Nos.":"true",
+			"Date Order":"false"
+		}
+	]
+}
