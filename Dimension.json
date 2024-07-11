@@ -1,0 +1,20 @@
+{
+	"Dimension":[
+		{
+			"Code": "CUSTOMER",
+			"Name": "Customer",
+			"Code Caption": "Customer Code",
+			"Filter Caption":"Customer Filter",
+			"Description":"Customer",
+			"Blocked":"false"
+		},
+		{
+			"Code": "PROJECT",
+			"Name": "Project",
+			"Code Caption": "Project Code",
+			"Filter Caption":"Project Filter",
+			"Description":"Project",
+			"Blocked":"false"
+		}
+	]
+}
