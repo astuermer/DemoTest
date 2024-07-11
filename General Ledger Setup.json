@@ -1,0 +1,10 @@
+{
+	"General Ledger Setup":[
+		{
+			"Shortcut Dimension 3 Code": "CUSTOMER",
+			"Shortcut Dimension 4 Code": "PROJECT",
+			"DYCE Dimension Code for Job": "PROJECT",
+			"DYCE Dimension Code for Cust.":"CUSTOMER"
+		}
+	]
+}
