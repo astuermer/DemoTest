@@ -1,29 +1,29 @@
 {
-	"Item Unit of Measure":[
+	"Unit of Measure":[
 		{
-			"No":"1001",
 			"Code":"DAY",
-			"Qty. per Unit if Measure":""
+			"Description":"Day",
+			"International Standard Code":"DAY"
 		},
 		{
-			"No":"1001",
-			"Code":"DAY",
-			"Qty. per Unit if Measure":""
+			"Code":"HOUR",
+			"Description":"Hour",
+			"International Standard Code":"HUR"
 		},
 		{
-			"No":"1001",
-			"Code":"DAY",
-			"Qty. per Unit if Measure":""
+			"Code":"MINUTE",
+			"Description":"Minute",
+			"International Standard Code":"MIN"
 		},
 		{
-			"No":"1001",
-			"Code":"DAY",
-			"Qty. per Unit if Measure":""
+			"Code":"PCS",
+			"Description":"Pcs",
+			"International Standard Code":"PCS"
 		},
 		{
-			"No":"1001",
-			"Code":"DAY",
-			"Qty. per Unit if Measure":""
+			"Code":"FIX",
+			"Description":"Fix",
+			"International Standard Code":""
 		}
 	]
 }
