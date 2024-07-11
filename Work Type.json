@@ -1,0 +1,29 @@
+{
+	"Work Type":[
+		{
+			"Code": "MEET",
+			"Description": "Meeting",
+			"Unit of Measure Code": "HOUR"
+		},
+		{
+			"Code": "CONS",
+			"Description": "Consulting",
+			"Unit of Measure Code": "HOUR"
+		},
+		{
+			"Code": "DEV",
+			"Description": "Development",
+			"Unit of Measure Code": "HOUR"
+		},
+		{
+			"Code": "PRESALES",
+			"Description": "Presales",
+			"Unit of Measure Code": "HOUR"
+		},
+		{
+			"Code": "TEST",
+			"Description": "Test",
+			"Unit of Measure Code": "HOUR"
+		}
+	]
+}
