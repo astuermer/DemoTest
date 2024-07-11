@@ -1,0 +1,108 @@
+{
+	"DYCETimeAndTravelModelLine":[
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"CONS-FL",
+			"Description":"Consulting Flat",
+			"Quantity":"0",
+			"Work Type Code":"CONS",
+			"Item No.":"1002",
+			"Billable":"true",
+			"Non-billable Reason":"Kulanz",
+			"Billable Duration Rounding":"15",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"CONS-TM",
+			"Description":"Consulting T&M",
+			"Quantity":"0",
+			"Work Type Code":"CONS",
+			"Item No.":"1001",
+			"Billable":"true",
+			"Non-billable Reason":"Kulanz",
+			"Billable Duration Rounding":"15",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"DEV-FL",
+			"Description":"Development Flat",
+			"Quantity":"0",
+			"Work Type Code":"DEV",
+			"Item No.":"1004",
+			"Billable":"true",
+			"Non-billable Reason":"Kulanz",
+			"Billable Duration Rounding":"15",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"DEV-TM",
+			"Description":"Development T&M",
+			"Quantity":"0",
+			"Work Type Code":"DEV",
+			"Item No.":"1003",
+			"Billable":"true",
+			"Non-billable Reason":"Kulanz",
+			"Billable Duration Rounding":"15",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"GOODWILL",
+			"Description":"Goodwill",
+			"Quantity":"0",
+			"Work Type Code":"",
+			"Item No.":"",
+			"Billable":"false",
+			"Non-billable Reason":"Kulanz",
+			"Billable Duration Rounding":"1",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"INTERN",
+			"Description":"Intern",
+			"Quantity":"0",
+			"Work Type Code":"",
+			"Item No.":"",
+			"Billable":"false",
+			"Non-billable Reason":"Intern",
+			"Billable Duration Rounding":"1",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"PS-FIX",
+			"Description":"Professional Services Fixed",
+			"Quantity":"0",
+			"Work Type Code":"",
+			"Item No.":"1005",
+			"Billable":"true",
+			"Non-billable Reason":"Kulanz",
+			"Billable Duration Rounding":"15",
+			"Billing Rounding":"1"
+		},
+		{
+			"Time and Travel Model Code": "STANDARD",
+			"Model Type": "Zeiten",
+			"Code":"WARRANTY",
+			"Description":"Warranty",
+			"Quantity":"0",
+			"Work Type Code":"",
+			"Item No.":"",
+			"Billable":"false",
+			"Non-billable Reason":"Garantie",
+			"Billable Duration Rounding":"1",
+			"Billing Rounding":"1"
+		}
+	]
+}
