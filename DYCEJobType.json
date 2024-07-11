@@ -1,0 +1,12 @@
+{
+	"DYCEJobType":[
+		{
+			"Code": "PLANNING",
+			"Description": "Planning"
+		},
+		{
+			"Code":"MAINT",
+			"Description": "Maintenance"
+		}
+	]
+}
