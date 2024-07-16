@@ -3,7 +3,7 @@
 		{
 			"Code": "TIMETR",
 			"Description": "Time Tracking",
-			"Default Nos.": "HOUR",
+			"Default Nos.": "true",
 			"Manual Nos.":"true",
 			"Date Order":"false"
 		}
