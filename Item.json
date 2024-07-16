@@ -11,7 +11,7 @@
 			"Sales Unit of Measure":"HOUR",
 			"Purch. Unit of Measure":"HOUR",
 			"DYCE Unit Price (Sales UOM)":"125",
-			"DYCE Service Billing Type":"Nach Aufwand"
+			"DYCE Service Billing Type":"Time & Material"
 		},
 		{
 			"No":"1002",
@@ -37,7 +37,7 @@
 			"Sales Unit of Measure":"HOUR",
 			"Purch. Unit of Measure":"HOUR",
 			"DYCE Unit Price (Sales UOM)":"120",
-			"DYCE Service Billing Type":"Nach Aufwand"
+			"DYCE Service Billing Type":"Time & Material"
 		},
 		{
 			"No":"1004",
@@ -63,7 +63,7 @@
 			"Sales Unit of Measure":"HOUR",
 			"Purch. Unit of Measure":"HOUR",
 			"DYCE Unit Price (Sales UOM)":"135",
-			"DYCE Service Billing Type":"Festpreis"
+			"DYCE Service Billing Type":"Fixed Price"
 		}
 	]
 }
