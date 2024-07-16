@@ -1,47 +1,47 @@
 {
 	"Item Unit of Measure":[
 		{
-			"Item No.":"1020",
+			"Item No.":"1001",
 			"Code":"HOUR",
 			"Qty. per Unit of Measure":"1"
 		},
 		{
-			"Item No.":"1020",
+			"Item No.":"1001",
 			"Code":"DAY",
 			"Qty. per Unit of Measure":"8"
 		},
 		{
-			"Item No.":"1021",
+			"Item No.":"1002",
 			"Code":"HOUR",
 			"Qty. per Unit of Measure":"1"
 		},
 		{
-			"Item No.":"1021",
+			"Item No.":"1002",
 			"Code":"DAY",
 			"Qty. per Unit of Measure":"8"
 		},
 		{
-			"Item No.":"1022",
+			"Item No.":"1003",
 			"Code":"HOUR",
 			"Qty. per Unit of Measure":"1"
 		},
 		{
-			"Item No.":"1022",
+			"Item No.":"1003",
 			"Code":"DAY",
 			"Qty. per Unit of Measure":"8"
 		},
 		{
-			"Item No.":"1023",
+			"Item No.":"1004",
 			"Code":"HOUR",
 			"Qty. per Unit of Measure":"1"
 		},
 		{
-			"Item No.":"1023",
+			"Item No.":"1004",
 			"Code":"DAY",
 			"Qty. per Unit of Measure":"8"
 		},
 		{
-			"Item No.":"1024",
+			"Item No.":"1005",
 			"Code":"PCS",
 			"Qty. per Unit of Measure":"1"
 		}
