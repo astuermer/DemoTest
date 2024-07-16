@@ -4,7 +4,7 @@
 			"Series Code": "TIMETR",
 			"Line No.": "10000",
 			"Starting No.": "TIME000001",
-			"Increment-by No.":"",
+			"Increment-by No.":"1",
 			"Open":"true",
 			"Allow Gaps in Nos.":"false",
 			"Starting Sequence No.":"0"
