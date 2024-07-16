@@ -1,7 +1,7 @@
 {
 	"Dimension":[
 		{
-			"Code": "CUSTOMER",
+			"Code": "CUSTOMERTEST",
 			"Name": "Customer",
 			"Code Caption": "Customer Code",
 			"Filter Caption":"Customer Filter",
@@ -9,7 +9,7 @@
 			"Blocked":"false"
 		},
 		{
-			"Code": "PROJECT",
+			"Code": "PROJECTTEST",
 			"Name": "Project",
 			"Code Caption": "Project Code",
 			"Filter Caption":"Project Filter",
