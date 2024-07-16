@@ -2,7 +2,7 @@
 	"DYCETimeAndTravelModelLine":[
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"CONS-FL",
 			"Description":"Consulting Flat",
 			"Quantity":"0",
@@ -15,7 +15,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"CONS-TM",
 			"Description":"Consulting T&M",
 			"Quantity":"0",
@@ -28,7 +28,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"DEV-FL",
 			"Description":"Development Flat",
 			"Quantity":"0",
@@ -41,7 +41,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"DEV-TM",
 			"Description":"Development T&M",
 			"Quantity":"0",
@@ -54,7 +54,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"GOODWILL",
 			"Description":"Goodwill",
 			"Quantity":"0",
@@ -67,7 +67,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"INTERN",
 			"Description":"Intern",
 			"Quantity":"0",
@@ -80,7 +80,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"PS-FIX",
 			"Description":"Professional Services Fixed",
 			"Quantity":"0",
@@ -93,7 +93,7 @@
 		},
 		{
 			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Zeiten",
+			"Model Type": "Time",
 			"Code":"WARRANTY",
 			"Description":"Warranty",
 			"Quantity":"0",
