@@ -5,14 +5,14 @@
 			"Line No.": "10000",
 			"Description":"My projects",
 			"My Jobs":"true",
-			"Display Unit":"Tag"
+			"Display Unit":"Day"
 		},
 		{
 			"User ID": "ADMIN",
 			"Line No.": "20000",
 			"Description":"All projects",
 			"My Jobs":"false",
-			"Display Unit":"Tag"
+			"Display Unit":"Day"
 		}
 	]
 }
