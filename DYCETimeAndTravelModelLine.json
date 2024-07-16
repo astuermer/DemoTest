@@ -9,7 +9,7 @@
 			"Work Type Code":"CONS",
 			"Item No.":"1002",
 			"Billable":"true",
-			"Non-billable Reason":"Kulanz",
+			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"15",
 			"Billing Rounding":"1"
 		},
@@ -22,7 +22,7 @@
 			"Work Type Code":"CONS",
 			"Item No.":"1001",
 			"Billable":"true",
-			"Non-billable Reason":"Kulanz",
+			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"15",
 			"Billing Rounding":"1"
 		},
@@ -35,7 +35,7 @@
 			"Work Type Code":"DEV",
 			"Item No.":"1004",
 			"Billable":"true",
-			"Non-billable Reason":"Kulanz",
+			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"15",
 			"Billing Rounding":"1"
 		},
@@ -48,7 +48,7 @@
 			"Work Type Code":"DEV",
 			"Item No.":"1003",
 			"Billable":"true",
-			"Non-billable Reason":"Kulanz",
+			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"15",
 			"Billing Rounding":"1"
 		},
@@ -61,7 +61,7 @@
 			"Work Type Code":"",
 			"Item No.":"",
 			"Billable":"false",
-			"Non-billable Reason":"Kulanz",
+			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"1",
 			"Billing Rounding":"1"
 		},
@@ -74,7 +74,7 @@
 			"Work Type Code":"",
 			"Item No.":"",
 			"Billable":"false",
-			"Non-billable Reason":"Intern",
+			"Non-billable Reason":"Internal",
 			"Billable Duration Rounding":"1",
 			"Billing Rounding":"1"
 		},
@@ -87,7 +87,7 @@
 			"Work Type Code":"",
 			"Item No.":"1005",
 			"Billable":"true",
-			"Non-billable Reason":"Kulanz",
+			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"15",
 			"Billing Rounding":"1"
 		},
@@ -100,7 +100,7 @@
 			"Work Type Code":"",
 			"Item No.":"",
 			"Billable":"false",
-			"Non-billable Reason":"Garantie",
+			"Non-billable Reason":"Warranty",
 			"Billable Duration Rounding":"1",
 			"Billing Rounding":"1"
 		}
