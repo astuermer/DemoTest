@@ -1,35 +1,35 @@
 {
 	"Dimension Value":[
 		{
-			"Dimension Code": "CUSTOMER",
+			"Dimension Code": "CUSTOMERTEST",
 			"Code": "10000",
 			"Name": "Adatum Corporation",
 			"Dimension Value Type":"Standard",
 			"Blocked":"false"
 		},
 		{
-			"Dimension Code": "CUSTOMER",
+			"Dimension Code": "CUSTOMERTEST",
 			"Code": "20000",
 			"Name": "Trey Research",
 			"Dimension Value Type":"Standard",
 			"Blocked":"false"
 		},
 		{
-			"Dimension Code": "CUSTOMER",
+			"Dimension Code": "CUSTOMERTEST",
 			"Code": "30000",
 			"Name": "School of Fine Art",
 			"Dimension Value Type":"Standard",
 			"Blocked":"false"
 		},
 		{
-			"Dimension Code": "CUSTOMER",
+			"Dimension Code": "CUSTOMERTEST",
 			"Code": "40000",
 			"Name": "Alpine Ski House",
 			"Dimension Value Type":"Standard",
 			"Blocked":"false"
 		},
 		{
-			"Dimension Code": "CUSTOMER",
+			"Dimension Code": "CUSTOMERTEST",
 			"Code": "50000",
 			"Name": "Relecloud",
 			"Dimension Value Type":"Standard",
