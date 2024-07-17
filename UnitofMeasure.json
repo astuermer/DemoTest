@@ -1,29 +1,9 @@
 {
 	"Unit of Measure":[
 		{
-			"Code":"DAY",
-			"Description":"Day",
-			"International Standard Code":"DAY"
-		},
-		{
-			"Code":"HOUR",
-			"Description":"Hour",
-			"International Standard Code":"HUR"
-		},
-		{
-			"Code":"MINUTE",
-			"Description":"Minute",
-			"International Standard Code":"MIN"
-		},
-		{
 			"Code":"PCS",
 			"Description":"Pcs",
 			"International Standard Code":"PCS"
-		},
-		{
-			"Code":"FIX",
-			"Description":"Fix",
-			"International Standard Code":""
 		}
 	]
 }
