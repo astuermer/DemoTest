@@ -55,19 +55,6 @@
 		{
 			"Time and Travel Model Code": "STANDARD",
 			"Model Type": "Time",
-			"Code":"GOODWILL",
-			"Description":"Goodwill",
-			"Quantity":"0",
-			"Work Type Code":"",
-			"Item No.":"",
-			"Billable":"false",
-			"Non-billable Reason":"Good Will",
-			"Billable Duration Rounding":"1",
-			"Billing Rounding":"1"
-		},
-		{
-			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Time",
 			"Code":"PS-FIX",
 			"Description":"Professional Services Fixed",
 			"Quantity":"0",
@@ -76,19 +63,6 @@
 			"Billable":"true",
 			"Non-billable Reason":"Good Will",
 			"Billable Duration Rounding":"15",
-			"Billing Rounding":"1"
-		},
-		{
-			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Time",
-			"Code":"WARRANTY",
-			"Description":"Warranty",
-			"Quantity":"0",
-			"Work Type Code":"",
-			"Item No.":"",
-			"Billable":"false",
-			"Non-billable Reason":"Warranty",
-			"Billable Duration Rounding":"1",
 			"Billing Rounding":"1"
 		}
 	]
