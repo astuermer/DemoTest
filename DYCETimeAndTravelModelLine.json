@@ -68,19 +68,6 @@
 		{
 			"Time and Travel Model Code": "STANDARD",
 			"Model Type": "Time",
-			"Code":"INTERN",
-			"Description":"Intern",
-			"Quantity":"0",
-			"Work Type Code":"",
-			"Item No.":"",
-			"Billable":"false",
-			"Non-billable Reason":"Internal",
-			"Billable Duration Rounding":"1",
-			"Billing Rounding":"1"
-		},
-		{
-			"Time and Travel Model Code": "STANDARD",
-			"Model Type": "Time",
 			"Code":"PS-FIX",
 			"Description":"Professional Services Fixed",
 			"Quantity":"0",
